@@ -1,0 +1,9 @@
+{
+    "challenge_id": "cvpr-2022-clear-challenge",
+    "task": "clear100",
+    "authors": [
+        "shelldon_gao"
+      ],
+    "description" : "CLEAR100 Agent",   
+    "gpu": true
+}
